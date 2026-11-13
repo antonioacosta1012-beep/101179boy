@@ -1,0 +1,26 @@
+{
+  "name": "claude-content-skills",
+  "version": "1.4.0",
+  "description": "13 free Claude skills that run your whole reel factory \u2014 idea to leads. Content Factory (one-command orchestrator) + Going Viral (strategy), AI Brain memory, Agent Reach (scrape Reddit/web + download reels), Reel Analyzer, Viral Hook Writer, Reel Scripter, Reel Builder, Caption & Hashtags, Content Repurposer, Content Calendar, and Comment Responder, and Content Research (research any niche \u2192 find what blew up \u2192 the playbook). By Ootto.",
+  "author": {
+    "name": "Ootto",
+    "url": "https://www.ootto.ai"
+  },
+  "license": "MIT",
+  "homepage": "https://www.ootto.ai",
+  "repository": "https://github.com/Ootto-AI/claude-content-skills",
+  "category": "marketing",
+  "keywords": [
+    "content-marketing",
+    "instagram-reels",
+    "short-form-video",
+    "viral-content",
+    "hooks",
+    "content-repurposing",
+    "obsidian",
+    "claude-skills",
+    "small-business",
+    "ootto",
+    "going-viral"
+  ]
+}
